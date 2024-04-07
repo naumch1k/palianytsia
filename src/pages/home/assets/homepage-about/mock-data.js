@@ -49,10 +49,6 @@ export const aboutData = {
       author: 'Dmytro Palii, Blizzard Entertainment',
     },
     {
-      text: 'Being a part of this project is an incredible honor. It allows me to expand my programming expertise, collaborate with talented individuals, and gain hands-on experience in solving real-world problems.',
-      author: 'Anna Barbon, Palianytsia',
-    },
-    {
       text: 'Through lines of code and pixels brought to life, this project sculpted worlds within screens and reshaped the contours of my aspirations and ingenuity.',
       author: 'Vlad Kamyshenko, Palianytsia',
     },
@@ -99,10 +95,6 @@ export const aboutData = {
     {
       text: 'This project gives me a chance to grow, learn, and hone my skills. Each challenge encountered is an invitation to transcend my own limits, push the boundaries of what I thought possible, and discover new dimensions of my artistic prowess.',
       author: 'Vasylyna Tsyvinska, Palianytsia',
-    },
-    {
-      text: 'This project has introduced me to incredible people and taught me so much. It\'s given me more confidence and made my day-to-day life much more fun. Following my passion not only brings success but also brightens my life.',
-      author: 'Daria Zhygyr, Palianytsia',
     },
   ]
 };
