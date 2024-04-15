@@ -7,12 +7,11 @@ import styles from './homepage-team.module.scss';
 
 const roleButtons = [
   { role: '', label: 'All' },
+  { role: 'game development', label: 'Game Development' },
   { role: 'development', label: 'Development' },
-  { role: 'art', label: 'Art' },
-  { role: 'design', label: 'Design' },
-  { role: 'project/product', label: 'Product / Project' },
-  // TODO: make list of roles based on team data
-  // { role: 'quality assurance', label: 'Quality assurance' },
+  { role: 'QA', label: 'Quality Assurance' },
+  { role: 'project/product', label: 'Project / Product' },
+  { role: 'marketing', label: 'Marketing' },
   { role: 'mentor', label: 'Mentors' },
 ];
 
