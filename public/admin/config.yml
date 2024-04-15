@@ -98,7 +98,7 @@ collections:
         name: "roles"
         widget: "select"
         multiple: true
-        options: ["design", "lead", "development", "art", "project/product", "marketing", "QA", "mentor", "founder", "co-founder"]
+        options: ["design", "lead", "development", "game development", "art", "project/product", "marketing", "QA", "mentor", "founder", "co-founder"]
       - label: "Image Large (748x748)"
         name: "image_large"
         widget: "image"
