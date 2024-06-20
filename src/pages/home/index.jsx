@@ -23,7 +23,7 @@ import donationPlatforms from '../../shared/constants/donation-platforms';
 
 const Home = () => {
   return (
-    <AppLayout donateButton>
+    <AppLayout>
       <SEO title="Home"/>
       <HomepageLayout>
         <HomepageLayout.Headline>

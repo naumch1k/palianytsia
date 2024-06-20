@@ -10,7 +10,7 @@ import data from './mock-data.json';
 
 const Blog = () => {
   return (
-    <AppLayout donateButton>
+    <AppLayout>
       <SEO title="The Latest"/>
       <BlogLayout>
         <BlogLayout.Title>

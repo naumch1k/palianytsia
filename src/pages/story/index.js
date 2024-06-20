@@ -19,7 +19,7 @@ const Story = () => {
   if (!story) return <Navigate to="/page-not-found"/>;
 
   return (
-    <AppLayout donateButton>
+    <AppLayout>
       <SEO
         title={`Stories: ${story.heading}`}
         image={story.image_tablet}

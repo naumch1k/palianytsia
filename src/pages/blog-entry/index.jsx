@@ -16,7 +16,7 @@ const BlogEntry = () => {
   if (!blogEntry) return <Navigate to="/page-not-found"/>;
 
   return (
-    <AppLayout donateButton>
+    <AppLayout>
       <SEO
         title={`The Latest: ${blogEntry.heading}`}
         image={blogEntry.og_image}
