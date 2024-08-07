@@ -18,7 +18,7 @@ const donationPlatforms = [
       in how your donations are utilized.`
     ],
     full_description: [],
-    link: 'https://gofund.me/f8a577d7',
+    link: 'https://gofund.me/',
     linkText: 'Continue to GoFundMe',
     qrCode: GoFundMeQRCode,
     qrCodeWebp: GoFundMeQRCodeWebp,
@@ -33,7 +33,7 @@ const donationPlatforms = [
       This will help us reach our goals more efficiently and effectively.`
     ],
     full_description: [],
-    link: 'https://www.paypal.com/donate/?hosted_button_id=9C7PBTQHEGFGA',
+    link: 'https://www.paypal.com/',
     linkText: 'Continue to PayPal',
     qrCode: PayPalQRCode,
     qrCodeWebp: PayPalQRCodeWebp,
@@ -48,7 +48,7 @@ const donationPlatforms = [
       supports our mission.`
     ],
     full_description: [],
-    link: 'https://www.venmo.com/u/p-foundation',
+    link: 'https://www.venmo.com/',
     linkText: 'Continue to Venmo',
     qrCode: VenmoQRCode,
     qrCodeWebp: VenmoQRCodeWebp,
@@ -59,14 +59,12 @@ const donationPlatforms = [
     description: [
       `When you use Zelle, you can be sure that 100% of your contribution
        goes to helping us reach our goals. With no processing fees, your
-       generosity will have a more significant impact on our mission.
-       Use your banking app to access Zelle and contribute to the
-       Palianytsia Foundation by donating to `,
+       generosity will have a more significant impact on our mission.`,
     ],
     full_description: [],
-    credentials: [
-      'hello@pgds.xyz',
-    ],
+    // credentials: [
+    //   'hello@pgds.xyz',
+    // ],
   },
   {
     name: 'Buy Me a Coffee',
@@ -79,7 +77,7 @@ const donationPlatforms = [
       contributing in minutes.`,
     ],
     full_description: [],
-    link: 'https://www.buymeacoffee.com/pfoundation',
+    link: 'https://www.buymeacoffee.com/',
     linkText: 'Continue to Buy Me a Coffee',
   },
 ];
